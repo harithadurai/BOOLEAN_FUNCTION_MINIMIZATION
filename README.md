@@ -58,7 +58,6 @@ RegisterNumber:25017580
 
 <img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/29ffd28e-4448-462c-8b27-bc6b88632354" />
 
-**Timing Diagram**
 
 **Result:**
 
