@@ -50,7 +50,8 @@ RegisterNumber:25017580
 **RTL realization**
 
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-22 161947" src="https://github.com/user-attachments/assets/09518c94-6e87-4eac-afa5-a9ac842db4c7" />
+
+<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/24673b21-3016-4000-bd32-0a7ce387c12a" />
 
 
 
