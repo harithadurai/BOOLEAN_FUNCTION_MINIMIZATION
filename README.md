@@ -60,7 +60,7 @@ RegisterNumber:25017580
 
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/24673b21-3016-4000-bd32-0a7ce387c12a" />
 
-<img width="1920" height="1080" alt="exp2 logic gates" src="https://github.com/user-attachments/assets/4e2f2e97-95d2-4807-b137-04c6e1d78b88" />
+<img width="1920" height="1080" alt="exp2 logic" src="https://github.com/user-attachments/assets/fec64461-2a47-4c73-bc02-45ca44f85549" />
 
 
 
@@ -68,7 +68,8 @@ RegisterNumber:25017580
 
 <img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/29ffd28e-4448-462c-8b27-bc6b88632354" />
 
-<img width="1920" height="1080" alt="exp2 wavefom " src="https://github.com/user-attachments/assets/f6380696-ea4e-4a80-b98b-41b3261eee00" />
+![Uploading exp2 wave.png…]()
+
 
 
 **Result:**
